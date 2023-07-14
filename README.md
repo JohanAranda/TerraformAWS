@@ -3,7 +3,7 @@
 |**Status**|**Implemented** |\
 |**Author(s)**|**Johan Aranda**|\
 |**Repository**|**GitHub**|\
-|**Updated**|**|13-06-2023**|
+|**Updated**|**13-06-2023 / 14-07-2023**|
 
 ## **Objective**
 
