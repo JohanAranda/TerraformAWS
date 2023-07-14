@@ -222,6 +222,7 @@ Con _terraform apply_ creamos los recursos antes vistos.
 ## Conectándonos a la instancia
 
     _root@LAPTOP-32406NRU:/home/johan/iac/terraform-examples/aws/01\_simple\_vps# ssh -i /home/johan/iac/terraform-examples/aws/01\_simple\_vps/keys/practica ec2-user@52.70.44.207_
+    
 ![TextoDescripción generada automáticamente](Aspose.Words.9396b7b3-49c2-4841-bc56-a63aa24d5bc6.011.png)
 
 ## Instalamos los paquetes del sistema con el comando
@@ -232,8 +233,9 @@ _sudo yum update_
 una vez instalados, verificamos con el código.
 
 _sudo yum list installed_
+
 para que nos de una lista de los paquetes instalados en la instancia ec2.
-_____
+
 
 ## Instalación de Docker en la ec2
 
