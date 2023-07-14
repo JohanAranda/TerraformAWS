@@ -228,6 +228,7 @@ Con _terraform apply_ creamos los recursos antes vistos.
 ## Instalamos los paquetes del sistema con el comando
 
 _sudo yum update_
+
 ![TextoDescripción generada automáticamente](Aspose.Words.9396b7b3-49c2-4841-bc56-a63aa24d5bc6.012.png)
 
 una vez instalados, verificamos con el código.
