@@ -319,3 +319,12 @@ Preparamos la aplicación y que funcione en la maquina local
 ![TextoDescripción generada automáticamente](Aspose.Words.9396b7b3-49c2-4841-bc56-a63aa24d5bc6.027.png)
 
 ![Interfaz de usuario gráfica, AplicaciónDescripción generadnte](Aspose.Words.9396b7b3-49c2-4841-bc56-a63aa24d5bc6.028.png)
+
+
+Para corroborar que nos funcione, tomamos el DNS Name y lo abrimos.
+
+      my-load-balancer-398867340.us-east-1.elb.amazonaws.com
+
+
+![final](final.png).
+
